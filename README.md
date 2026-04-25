@@ -6,7 +6,7 @@
    1. Data Cleaning 
    2. Exploratory Data Analysis (EDA)
    3. Data Visualization
-   4.  4. Risk Score Model Development. 
+   4. Risk Score Model Development. 
 ## ⚡ Key Features - Custom health risk scoring system - Classification into Low, Moderate, High risk - Visual insights using graphs. 
 ## 💡 Key Insights - Lower sleep duration increases stress levels - Higher physical activity improves overall health - Lifestyle patterns significantly influence health risk.
 ## 🚀 Conclusion This project demonstrates how data analytics can be used to extract meaningful insights from lifestyle data and support health awareness
